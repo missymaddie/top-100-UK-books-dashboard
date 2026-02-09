@@ -20,6 +20,8 @@ The purpose of this project is to:
 - Strengthen analytical storytelling skills using real‑world‑style data  
 
 ---
+## My Cleaning Steps
+lorem ipsom blah blah blah 
 
 ## 🛠️ Installation & Setup Instructions
 
